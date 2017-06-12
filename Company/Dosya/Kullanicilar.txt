@@ -1,0 +1,4 @@
+﻿Müdür#Ömer#1234#Ömer Faruk Gedik#omerfarukgedikk@gmail.com#03.06.1995#mita2.jpg#1545475#(+90) 539 447 0577#2010#12532318071
+Programcı#Osman#1234#Osman Çaksen#caksenosman@gmail.com#15.07.1994#çita2.jpg#1545475#(+90) 506 732 3231#2011#12532318072
+Pazarlamacı#Ayşe#1234#Ayşe#ayse@gmail.com#15.07.1994#null#1545475#(+90) 536 555 5455#2016#12532318073
+Sekreter#Fatma#1234#Fatma#fatma@gmail.com#15.07.1994#null#1545475#(+90) 546 712 4413#2016#12532318074

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0308EDF1-FF52-46B9-A63C-0513BFFA572B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Company</RootNamespace>
+    <AssemblyName>Company</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Duyuru.cs" />
+    <Compile Include="Ek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ek.Designer.cs">
+      <DependentUpon>Ek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Firmalar.cs" />
+    <Compile Include="Kişi.cs" />
+    <Compile Include="kullaniciGör.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullaniciGör.Designer.cs">
+      <DependentUpon>kullaniciGör.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcı.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Müdür.cs" />
+    <Compile Include="Pazarlamacı.cs" />
+    <Compile Include="Programcı.cs" />
+    <Compile Include="Sekreter.cs" />
+    <Compile Include="yeniDuyuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniDuyuru.Designer.cs">
+      <DependentUpon>yeniDuyuru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniFirma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniFirma.Designer.cs">
+      <DependentUpon>yeniFirma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniKitap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniKitap.Designer.cs">
+      <DependentUpon>yeniKitap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniÇalışan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniÇalışan.Designer.cs">
+      <DependentUpon>yeniÇalışan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kitaplar.cs" />
+    <Compile Include="Şirket.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ek.resx">
+      <DependentUpon>Ek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullaniciGör.resx">
+      <DependentUpon>kullaniciGör.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="yeniDuyuru.resx">
+      <DependentUpon>yeniDuyuru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniFirma.resx">
+      <DependentUpon>yeniFirma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniKitap.resx">
+      <DependentUpon>yeniKitap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniÇalışan.resx">
+      <DependentUpon>yeniÇalışan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dosya\Duyurular.txt" />
+    <Content Include="Dosya\Firmalar.txt" />
+    <Content Include="Dosya\Kullanicilar.txt" />
+    <Content Include="Dosya\prdctImg\phyton.png" />
+    <Content Include="Dosya\Kitaplar.txt" />
+    <Content Include="Dosya\usrImg\Apps-Notifications-icon.png" />
+    <Content Include="Dosya\usrImg\mita2.jpg" />
+    <Content Include="Dosya\usrImg\content-icon.png" />
+    <Content Include="Dosya\usrImg\default.png" />
+    <Content Include="Dosya\usrImg\Male-Avatar-Cool-Sunglasses-icon.png" />
+    <Content Include="Dosya\usrImg\mita.jpg" />
+    <Content Include="Dosya\usrImg\personal-information-icon.png" />
+    <Content Include="Dosya\usrImg\çita.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

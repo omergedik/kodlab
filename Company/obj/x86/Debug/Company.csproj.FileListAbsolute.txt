@@ -1,0 +1,37 @@
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\bin\Debug\Company.exe
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\bin\Debug\Company.pdb
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.Properties.Resources.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.csproj.GenerateResource.Cache
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.exe
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.pdb
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.Login.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.Ek.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.Anasayfa.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.kullaniciGör.resources
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.exe
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.pdb
+C:\Users\GedikPC\Desktop\Company\Company\bin\Debug\Company.exe
+C:\Users\GedikPC\Desktop\Company\Company\bin\Debug\Company.pdb
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.Anasayfa.resources
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.Ek.resources
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.kullaniciGör.resources
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.Login.resources
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.Properties.Resources.resources
+C:\Users\GedikPC\Desktop\Company\Company\obj\x86\Debug\Company.csproj.GenerateResource.Cache
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.exe
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.pdb
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\bin\Debug\Company.exe
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\bin\Debug\Company.pdb
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.Anasayfa.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.Ek.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.kullaniciGör.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.Login.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.Properties.Resources.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company2\Company\obj\x86\Debug\Company.csproj.GenerateResource.Cache
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.yeniDuyuru.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.yeniÇalışan.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.yeniKitap.resources
+C:\Users\GedikPC\Documents\Visual Studio 2010\Projects\Company\Company\obj\x86\Debug\Company.yeniFirma.resources
